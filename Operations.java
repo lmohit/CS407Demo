@@ -11,6 +11,6 @@ public class Operations {
 		System.out.println("Enter the second number");
 		int secondNumber = in.nextInt();
 		
-		System.out.println("Difference = " + (firstNumber - secondNumber));
+		System.out.println("Multiplying = " + (firstNumber * secondNumber));
 	}
 }
